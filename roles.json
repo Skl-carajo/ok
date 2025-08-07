@@ -1,4 +1,6 @@
 {
-  "MafiaTeamPlr": ["M0rxun", "077_lk1"],
-  "Administrators": ["M0rxun", "077_lk1"]
+  "MafiaTeam": ["M0rxun", "077_lk1"],
+  "Administrators": ["M0rxun", "077_lk1"],
+  "Mods": ["nadie"],
+  "HeadAdmins": ["5jfabry"]
 }
